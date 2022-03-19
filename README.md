@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/mrodionov/">💻 LinkedIn</a>
 </p>
 
-Thanks for checking out my GitHub profile, feel free to reach out using social buttons :)
+Thanks for checking out my GitHub profile, feel free to reach out using social links above :)
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=mikerodionov&&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) 
 
