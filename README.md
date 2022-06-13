@@ -4,7 +4,6 @@
 
 <p align="center" valign="center">
   <a href="https://mikerodionov.com">✏️ Blog</a> | 
-  <a href="https://twitter.com/mikerodionov">🐦 Twitter</a> | 
   <a href="https://www.linkedin.com/in/mrodionov/">💻 LinkedIn</a>
 </p>
 
