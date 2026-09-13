@@ -60,22 +60,38 @@ Senior professional specializing in designing secure, highly automated **Interna
 </p>
 
 ---
+
 ### 🏆 Verified Certifications
 
 <p align="left">
-
-  <!-- KCNA: Kubernetes and Cloud Native Associate -->
-  <a href="https://www.credly.com/badges/422cfbfa-8d34-4c56-82ef-8490222b1147/public_url">
-    <img src="https://images.credly.com/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" alt="KCNA: Kubernetes and Cloud Native Associate" width="100"/>
+  <!-- Microsoft Certified: Azure Solutions Architect Expert -->
+  <a href="https://learn.microsoft.com/en-us/users/mikerodionov/credentials/9A601D19C4B323A2">
+    <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-expert-badge.svg?branch=main" alt="Microsoft Certified: Azure Solutions Architect Expert" width="100"/>
   </a>
 
-</p>
+  <!-- Microsoft Certified: DevOps Engineer Expert -->
+  <a href="https://learn.microsoft.com/en-us/users/mikerodionov/credentials/250DFA73241758ED">
+    <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-expert-badge.svg?branch=main" alt="Microsoft Certified: DevOps Engineer Expert" width="100"/>
+  </a>
 
-<p align="left">
+  <!-- Microsoft Certified: Azure Administrator Associate -->
+  <a href="https://learn.microsoft.com/en-us/users/mikerodionov/credentials/EA4962EEA69E30AA">
+    <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main" alt="Microsoft Certified: Azure Administrator Associate" width="100"/>
+  </a>
 
-  <!-- AWS Certified Developer – Associate -->
-  <a href="https://www.credly.com/badges/0c5d2333-d969-4455-af64-655bb2ffad83/public_url">
-    <img src="https://images.credly.com/size/160x160/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Certified Developer – Associate" width="100"/>
+  <!-- Microsoft Certified: Azure AI Fundamentals -->
+  <a href="https://learn.microsoft.com/en-us/users/mikerodionov/credentials/F35A2406F06D3F55">
+    <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" alt="Microsoft Certified: Azure AI Fundamentals" width="100"/>
+  </a>
+
+  <!-- Microsoft Certified: Azure Fundamentals -->
+  <a href="https://learn.microsoft.com/en-us/users/mikerodionov/credentials/BAD010803B166575">
+    <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" alt="Microsoft Certified: Azure Fundamentals" width="100"/>
+  </a>
+
+  <!-- Microsoft Certified: Azure Data Fundamentals -->
+  <a href="https://learn.microsoft.com/en-us/users/mikerodionov/credentials/B33466F1463E62E7">
+    <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" alt="Microsoft Certified: Azure Data Fundamentals" width="100"/>
   </a>
 
   <!-- AWS Certified Solutions Architect – Associate -->
@@ -83,39 +99,27 @@ Senior professional specializing in designing secure, highly automated **Interna
     <img src="https://images.credly.com/size/160x160/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" width="100"/>
   </a>
 
-  <!-- AWS Certified Cloud Practitioner -->
-  <a href="https://www.credly.com/badges/f7d8a7ed-4347-4965-8d57-9ed19a6d4205/public_url">
-    <img src="https://images.credly.com/size/160x160/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="GitHub Foundations" width="100"/>
+  <!-- AWS Certified Developer – Associate -->
+  <a href="https://www.credly.com/badges/0c5d2333-d969-4455-af64-655bb2ffad83/public_url">
+    <img src="https://images.credly.com/size/160x160/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Certified Developer – Associate" width="100"/>
   </a>
 
-</p>
-
-<p align="left">
-
-  <!-- Google Cloud Associate Cloud Engineer Certification -->
+  <!-- Google Cloud Associate Cloud Engineer -->
   <a href="https://www.credly.com/badges/c1ac4ccb-a46b-4045-b4e9-e3126cf37759/public_url">
     <img src="https://images.credly.com/size/160x160/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png" alt="Google Cloud Associate Cloud Engineer Certification" width="100"/>
   </a>
 
-</p>
-
-<p align="left">
-
-  <!-- HashiCorp Certified: Terraform Associate (003) -->
+  <!-- HashiCorp Certified: Terraform Associate -->
   <a href="https://www.credly.com/badges/7fe44912-de87-4cf1-add0-83d68fcf8b09/public_url">
-    <img src="https://images.credly.com/size/160x160/images/0dc62494-dc94-469a-83af-e35309f27356/blob" alt="HashiCorp Certified: Terraform Associate (003)" width="100"/>
+    <img src="https://images.credly.com/size/160x160/images/0dc62494-dc94-469a-83af-e35309f27356/blob" alt="HashiCorp Certified: Terraform Associate" width="100"/>
   </a>
-
+  
+  <!-- KCNA -->
+  <a href="https://www.credly.com/badges/422cfbfa-8d34-4c56-82ef-8490222b1147/public_url">
+    <img src="https://images.credly.com/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" alt="KCNA: Kubernetes and Cloud Native Associate" width="100"/>
+  </a>
 </p>
 
-<p align="left">
-
-  <!-- GitHub Foundations -->
-  <a href="https://www.credly.com/badges/9a8d41ac-134a-402b-af00-ff09b0d9f7c2/public_url">
-    <img src="https://images.credly.com/size/160x160/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="GitHub Foundations" width="100"/>
-  </a>
-
-</p>
 ---
 
 ### 📫 Connect with me
