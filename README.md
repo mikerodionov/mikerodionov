@@ -41,9 +41,11 @@ Senior professional specializing in designing secure, highly automated **Interna
 *Building resilient, compliant, and observable cloud environments across Azure, AWS, and GCP. Empowering engineering teams with self-service infrastructure and zero-downtime deployments in strictly regulated industries (Pharma/Insurance/HealthTech).*
 
 ---
+
 ### 📝 Recent Tech Writeups
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
 ---
 
 ### 📈 Technical Language Balance
@@ -65,6 +67,18 @@ Senior professional specializing in designing secure, highly automated **Interna
   <a href="https://www.credly.com/badges/7fe44912-de87-4cf1-add0-83d68fcf8b09/public_url">
     <img src="https://images.credly.com/size/160x160/images/0dc62494-dc94-469a-83af-e35309f27356/blob" alt="HashiCorp Certified: Terraform Associate (003)" width="100"/>
   </a>
+
+  <!-- GitHub Foundations -->
+  <a href="https://www.credly.com/badges/9a8d41ac-134a-402b-af00-ff09b0d9f7c2/public_url">
+    <img src="https://images.credly.com/size/160x160/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="GitHub Foundations" width="100"/>
+  </a>
+
+  <!-- AWS Certified Cloud Practitioner -->
+  <a href="https://www.credly.com/badges/f7d8a7ed-4347-4965-8d57-9ed19a6d4205/public_url">
+    <img src="https://images.credly.com/size/160x160/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="GitHub Foundations" width="100"/>
+  </a>
+
+
 </p>
 ---
 
