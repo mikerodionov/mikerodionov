@@ -44,6 +44,11 @@ Senior professional specializing in designing secure, highly automated **Interna
 
 ### 📝 Recent Tech Writeups
 <!-- BLOG-POST-LIST:START -->
+- [GCP MIG, UIG and NEG](https://mikerodionov.medium.com/gcp-mig-uig-and-neg-e4221ae26725?source=rss-f672ee2ac0ed------2)
+- [Looking at the AWS Cloud Practitioner Certification from a Different Perspective](https://mikerodionov.medium.com/looking-at-the-aws-cloud-practitioner-certification-from-a-different-perspective-c28de18f64eb?source=rss-f672ee2ac0ed------2)
+- [Why AWS IAM Doesn’t Support Group Nesting &lpar;And Why That’s a Good Thing&rpar;](https://mikerodionov.medium.com/why-aws-iam-doesnt-support-group-nesting-and-why-that-s-a-good-thing-3ef304489bfb?source=rss-f672ee2ac0ed------2)
+- [Demystifying Multi-Cloud Policy: An Architect’s Guide to Azure, AWS, and GCP Governance](https://mikerodionov.medium.com/demystifying-multi-cloud-policy-an-architects-guide-to-azure-aws-and-gcp-governance-6dc020cbc746?source=rss-f672ee2ac0ed------2)
+- [From “Fort Knox” to Internet Fallback: The Evolution of Azure Private Endpoint DNS](https://mikerodionov.medium.com/from-fort-knox-to-fallback-the-evolution-of-azure-private-endpoint-dns-58e6bf9978bf?source=rss-f672ee2ac0ed------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
