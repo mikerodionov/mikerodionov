@@ -56,9 +56,8 @@ Senior professional specializing in designing secure, highly automated **Interna
 ### 📈 Technical Language Balance
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikerodionov&hide=html,jupyter%20notebook&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikerodionov&hide=HTML,Jupyter%20Notebook&layout=compact&theme=radical" alt="Top Langs" />
 </p>
-
 ---
 
 ### 🏆 Verified Certifications
