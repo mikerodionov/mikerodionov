@@ -37,17 +37,40 @@ Senior professional specializing in designing secure, highly automated **Interna
 ---
 
 ### 🧠 Current Focus
+
 *Building resilient, compliant, and observable cloud environments across Azure, AWS, and GCP. Empowering engineering teams with self-service infrastructure and zero-downtime deployments in strictly regulated industries (Pharma/Insurance/HealthTech).*
 
 ---
+### 📝 Recent Tech Writeups
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+---
 
 ### 📈 Technical Language Balance
+
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikerodionov&hide=html,jupyter%20notebook&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 ---
+### 🏆 Verified Certifications
+
+<p align="left">  
+  <!-- KCNA: Kubernetes and Cloud Native Associate -->
+  <a href="https://www.credly.com/badges/422cfbfa-8d34-4c56-82ef-8490222b1147/public_url">
+    <img src="https://images.credly.com/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" alt="KCNA: Kubernetes and Cloud Native Associate" width="100"/>
+  </a>
+
+  <!-- HashiCorp Certified: Terraform Associate (003) -->
+  <a href="https://www.credly.com/badges/7fe44912-de87-4cf1-add0-83d68fcf8b09/public_url">
+    <img src="https://images.credly.com/size/160x160/images/0dc62494-dc94-469a-83af-e35309f27356/blob" alt="HashiCorp Certified: Terraform Associate (003)" width="100"/>
+  </a>
+</p>
+---
 
 ### 📫 Connect with me
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrodionov/) 
+[![Credly](https://img.shields.io/badge/Credly-F56920?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/mikhail-rodionov/badges)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mikerodionov) 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodionovmv@gmail.com)
