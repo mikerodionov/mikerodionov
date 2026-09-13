@@ -1,11 +1,14 @@
 name: Generate Language Metrics
 on:
   schedule:
-    # Runs at 00:00 UTC everyday
-    - cron: "0 0 * * *"
+    # Offset by 17 minutes to bypass the midnight GitHub Actions traffic jam
+    - cron: "17 0 * * *"
   workflow_dispatch:
-  # (Optional) Run on push to main/master to update immediately
-  push: {branches: ["master", "main"]}
+  push: 
+    branches: ["master", "main"]
+    # CRITICAL: Prevents the action from re-triggering itself when it commits the SVG
+    paths-ignore:
+      - 'assets/**'
 
 jobs:
   github-metrics:
@@ -15,20 +18,14 @@ jobs:
     steps:
       - uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
         with:
-          # --- Authentication ---
           token: ${{ secrets.METRICS_TOKEN }}
-
-          # --- Output Configuration ---
           user: mikerodionov
           template: classic
-          base: "" # Empty base to avoid a full profile summary (header, avatar, etc.)
-          filename: assets/metrics.plugin.languages.icons.svg
+          base: "" 
+          filename: assets/metrics.plugin.languages.svg
           config_timezone: UTC
-          
-          # --- Languages Plugin Configuration ---
+          config_display: large
           plugin_languages: yes
-          # Ignore languages as requested previously
           plugin_languages_ignored: html, jupyter notebook
-          # CRITICAL: Displays only icons, not percentages
-          plugin_languages_details: icons 
+          plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 10
