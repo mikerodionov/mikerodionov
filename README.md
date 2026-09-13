@@ -57,7 +57,7 @@ Senior professional specializing in designing secure, highly automated **Interna
 
 <p align="left">
   <!-- This image is generated and committed daily by the 'Generate Language Metrics' GitHub Action -->
-  <img src="./assets/metrics.plugin.languages.icons.svg" alt="Languages Icons" height="60" />
+  <img src="./assets/metrics.plugin.languages.svg" alt="Languages Metrics" />
 </p>
 
 ---
