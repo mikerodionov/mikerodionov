@@ -110,11 +110,16 @@ Senior professional specializing in designing secure, highly automated **Interna
     <img src="https://images.credly.com/size/160x160/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png" alt="Google Cloud Associate Cloud Engineer Certification" width="100"/>
   </a>
 
-  <!-- HashiCorp Certified: Terraform Associate -->
+  <!-- HashiCorp Certified: Terraform Associate 003 -->
   <a href="https://www.credly.com/badges/7fe44912-de87-4cf1-add0-83d68fcf8b09/public_url">
-    <img src="https://images.credly.com/size/160x160/images/0dc62494-dc94-469a-83af-e35309f27356/blob" alt="HashiCorp Certified: Terraform Associate" width="100"/>
+    <img src="https://images.credly.com/size/160x160/images/0dc62494-dc94-469a-83af-e35309f27356/blob" alt="HashiCorp Certified: Terraform Associate 003" width="100"/>
   </a>
-  
+
+  <!-- HashiCorp Certified: Terraform Associate 004 -->
+  <a href="https://www.credly.com/badges/49908daf-1ec7-4633-aad2-d2174f111510/public_url">
+    <img src="https://images.credly.com/size/160x160/images/6f614b71-3f2e-488e-8b29-71e90d4dbf80/blob" alt="HashiCorp Certified: Terraform Associate 004" width="100"/>
+  </a>
+
   <!-- KCNA -->
   <a href="https://www.credly.com/badges/422cfbfa-8d34-4c56-82ef-8490222b1147/public_url">
     <img src="https://images.credly.com/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" alt="KCNA: Kubernetes and Cloud Native Associate" width="100"/>
